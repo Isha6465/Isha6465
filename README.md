@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isha6465
+- 👋 Hi, I’m @Isha Ishtiaq
 - 👀 I’m interested in ai generative skills
 - 🌱 I’m currently doing by BS in compute science and also interested in ai generative skills 
 - 💞️ I’m looking to collaborate on ...
